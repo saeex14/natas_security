@@ -1,0 +1,7 @@
+this level you must learning linux terminal
+in linux we have a function "grep "
+you can find word in other files
+with ";" you can run some order togather
+we can write "grep -i '; ls /etc/ -ltrh;' dictionary.txt"
+and see files of site "natas_webapss"
+with ";cat /etc/natas_webapss/natas10;" see password

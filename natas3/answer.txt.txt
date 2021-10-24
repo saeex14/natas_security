@@ -1,0 +1,4 @@
+I see html code in Inspect , and use giuding 
+add "/robot.txt" in web'address 
+you can see a file in "/s3cr3t/" 
+you go to this file and see the password

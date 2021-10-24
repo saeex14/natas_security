@@ -1,0 +1,4 @@
+this level similar past level but we have some if
+so we know the pass is in "etc/natas_webapss/natas11"
+so we can guess pass have "o" and find files but how see in side natas11
+ok we can use '-a' in 'grep' see password 

@@ -1,0 +1,4 @@
+ok this we have php code of page open that 
+see in first line of php code "includes/secret.inc"
+put after the address of site and see code put this in input of site 
+and get password 
